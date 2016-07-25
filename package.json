@@ -1,0 +1,35 @@
+{
+  "name": "costtime-cli",
+  "version": "0.0.0",
+  "description": "Contracting Calculator",
+  "main": "cli.js",
+  "bin": {
+    "costtime": "cli.js"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bencevans/costtime-cli.git"
+  },
+  "keywords": [
+    "cli",
+    "cost",
+    "time",
+    "contracting",
+    "freelance",
+    "freelancing",
+    "hours"
+  ],
+  "author": "Ben Evans <ben@bensbit.co.uk> (https://bencevans.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bencevans/costtime-cli/issues"
+  },
+  "homepage": "https://github.com/bencevans/costtime-cli#readme",
+  "dependencies": {
+    "costtime": "^1.0.0",
+    "meow": "^3.7.0"
+  }
+}
