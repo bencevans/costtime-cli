@@ -4,7 +4,8 @@
   "description": "Contracting Calculator",
   "main": "cli.js",
   "bin": {
-    "costtime": "cli.js"
+    "costtime": "cli.js",
+    "cost-time": "cli.js"
   },
   "scripts": {
     "test": "node test.js"
